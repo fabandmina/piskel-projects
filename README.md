@@ -11,4 +11,4 @@ git clone https://github.com/fabandmina/piskel-projects.git
 ## List of projects
 | Name | App | Comment | 
 |------|---------|-----|
-| fabandmina/ | https://www.piskelapp.com | Graphical assets for personal website fabandmina.ml |
+| fabandmina/ | https://www.piskelapp.com | Graphical assets for personal website [fabandmina.ml](https://fabandmina.github.io) |
